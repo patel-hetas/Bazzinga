@@ -32,7 +32,7 @@ Setting Up in Eclipse (Mac with Silicon Chip)
    - Right-click on the project.
    - Navigate to Run As > Run Configurations**.
    - Select the Arguments tab.
-   - In the **VM Arguments** field, add the following line:
+   - In the VM Arguments field, add the following line:
      --add-modules javafx.controls,javafx.fxml,javafx.web -Dprism.order=sw
 
 7. Under the **VM Arguments**, check only `Use the -XX:+ShowCodeDetailsInExceptionMessages` and deselect the other options.
