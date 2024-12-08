@@ -1,5 +1,7 @@
 CipherNet Browser
 
+Github Repo - https://github.com/patel-hetas/Bazzinga
+
 Follow the steps below to set up and run the CipherNet project.
 
 Prerequisites
