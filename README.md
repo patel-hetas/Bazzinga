@@ -2,6 +2,8 @@
 
 CipherNet is a privacy-focused web browser built with Java and JavaFX, designed to provide a secure, user-friendly browsing experience.
 
+Repository URl - https://github.com/patel-hetas/Bazzinga
+
 ---
 
 ## **Features**
