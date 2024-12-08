@@ -24,7 +24,7 @@ Setting Up in Eclipse (Mac with Silicon Chip)
 4. Ensure that ModulePath uses `JRE System Library [Java SE 20.0.1]`.
    - If not:
      - Select the current Java version listed.
-     - Click **Edit**, then choose Alternate JRE.
+     - Click Edit, then choose Alternate JRE.
      - Select Java SE 20.0.1 [20.0.1].
      - Apply the changes and close the dialog.
 5. Right-click on the project and select Run As > Java Application. (This may throw an error.)
